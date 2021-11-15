@@ -8,7 +8,7 @@ Used Tech-Stack :- HTML, CSS, JavaScript
 </h3>
   <br>
   <br>
-
+<p align="center">
 <img src="https://i.ibb.co/4gBCtSP/Screenshot-493.png" alt="Screenshot-493" border="0">
  <br>
   <br>
@@ -36,3 +36,4 @@ Used Tech-Stack :- HTML, CSS, JavaScript
  <img style="display:flex; justify-content: center; align-items: center;" src="https://c.tenor.com/35hmBwYHYikAAAAM/the-office-bow.gif">
  <br>
  <br>
+  </p>
