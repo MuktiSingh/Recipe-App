@@ -18,7 +18,7 @@ Used Tech-Stack :- HTML, CSS, JavaScript
 <img src="https://i.ibb.co/bzyZLJM/Screenshot-495.png" alt="Screenshot-495" border="0">
  <br>
   <br>
-<img src="https://i.ibb.co/4ZKPvJV/Screenshot-496.png" alt="Screenshot-496" border="0">
+<img src='https://i.postimg.cc/rwrtd8VL/Screenshot-496.png' border='0' alt='Screenshot-496'/>
  <br>
   <br>
 <img src="https://i.ibb.co/bBzJs53/Screenshot-497.png" alt="Screenshot-497" border="0">
