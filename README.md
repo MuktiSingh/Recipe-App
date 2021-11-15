@@ -33,7 +33,7 @@ Used Tech-Stack :- HTML, CSS, JavaScript
 <img src="https://i.ibb.co/3SvShMS/Screenshot-500.png" alt="Screenshot-500" border="0">
  <br>
  <br>
- <img src="https://c.tenor.com/hDe8SeSXBVwAAAAi/thank-you-thanks.gif" height="50vh" width="60vw">
+ <img src="https://c.tenor.com/hDe8SeSXBVwAAAAi/thank-you-thanks.gif" height="500px" width="500px">
  <br>
  <br>
   </p>
