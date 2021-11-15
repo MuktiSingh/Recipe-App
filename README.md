@@ -5,6 +5,9 @@ A chrome extension Recipe app where one can find food by name and see steps and 
   <br>
   <br>
 Used Tech-Stack :- HTML, CSS, JavaScript
+  <br>
+  <br>
+Screenshots :-
 </h3>
   <br>
   <br>
